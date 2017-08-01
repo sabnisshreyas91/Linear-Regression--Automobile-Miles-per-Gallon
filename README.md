@@ -3,11 +3,11 @@ Uses Python requests to obtain data from the Auto.mpg dataset hosted on https://
 
 From the training data, the relationship between vehicle mpg and the three predictors (displacement, horsepower and weight) is as follows:
 
-![Screenshot1](disp_vs_mpg)
+![Screenshot1](disp_vs_mpg.png)
 
-![Screenshot2](hp_vs_mpg)
+![Screenshot2](hp_vs_mpg.png)
 
-![Screenshot3](weight_vs_mpg)
+![Screenshot3](weight_vs_mpg.png)
 
 After training the linear regression model, the root mean square error is measured to be about 7.7 mpg.
 
